@@ -1,0 +1,3 @@
+#!/bin/env/usr
+
+pwd
